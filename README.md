@@ -1,1 +1,1 @@
-# EPIC
+# project-C26-template
